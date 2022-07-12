@@ -4,9 +4,9 @@ The purpose of the school district analysis is to use school and student data ob
 ## Results
 - How is the district summary affected?
   - District summary before correction:<br/>
-  - ![District_Summary_Before](https://user-images.githubusercontent.com/98781992/178567310-757dd947-36f8-447a-bd07-4dd7b8f06658.png)<br/>
+![District_Summary_Before](https://user-images.githubusercontent.com/98781992/178567310-757dd947-36f8-447a-bd07-4dd7b8f06658.png)<br/>
   - District summary after correction:<br/>
-  - ![District_Summary_After](https://user-images.githubusercontent.com/98781992/178567232-7155ea27-ed9d-4b1b-bda7-ea6dc3d9ec45.png)<br/>
+![District_Summary_After](https://user-images.githubusercontent.com/98781992/178567232-7155ea27-ed9d-4b1b-bda7-ea6dc3d9ec45.png)<br/>
   - The average math score, percentage of students passing math, and percentage of overall passing students decreased slightly. The average reading score and percentage of students passing reading also decreased, but to a smaller degree that is shown if the data is rounded to the hundredths place. 
 - How is the school summary affected?
   -
